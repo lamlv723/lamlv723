@@ -1,4 +1,6 @@
-<img href="#" src="./wallpaper.gif" alt="Wallpaper" width="100%" height="auto">
+<a href="#" style="pointer-events: none;  cursor: default;">
+    <img src="./wallpaper.gif" alt="Wallpaper" width="100%" height="auto">
+</a>
 
 ### WELCOME TO MY PAGE 👋👋👋
 My name is Lam Le. I am currently a Data Analyst. I am enthusiastic about working with data and on the road to become a Data Engineer.<br>

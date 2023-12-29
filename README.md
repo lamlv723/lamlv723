@@ -3,7 +3,7 @@
 </a>
 
 ### WELCOME TO MY PAGE 👋👋👋
-My name is Lam Le. I am currently a Data Analyst. I am enthusiastic about working with data and on the road to become a Data Engineer.<br>
+Hi! My name is Lam Le. I am currently a Data Analyst. I am enthusiastic about working with data and on the road to become a Data Engineer.<br>
 
 ## 📫 How to reach me:
 

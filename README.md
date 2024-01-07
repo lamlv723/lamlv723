@@ -1,4 +1,4 @@
-<a href="" style="pointer-events: none;  cursor: default;">
+<a href="#" style="pointer-events: none;  cursor: default;">
     <img src="./wallpaper.gif" alt="Wallpaper" width="100%" height="auto">
 </a>
 

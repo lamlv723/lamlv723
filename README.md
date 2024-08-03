@@ -7,8 +7,8 @@ Hi! My name is Lam Le. I am currently a Data Analyst. I am enthusiastic about wo
 
 ## 📫 How to reach me:
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/lamlv723/)&nbsp;
-[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/lamlv723)
+[![Linkedin](icons/linkedin.png) LinkedIn](https://www.linkedin.com/in/lamlv723/)&nbsp;
+[![GitHub](icons/github.png) GitHub](https://github.com/lamlv723)
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lamlv723&repo=data_warehouse_project&theme=radical)](https://github.com/lamlv723/data_warehouse_project)

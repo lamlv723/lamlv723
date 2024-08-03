@@ -12,6 +12,7 @@ Hi! My name is Lam. I am currently a Data Analyst. I am enthusiastic about worki
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lamlv723&repo=data_warehouse_project&theme=radical)](https://github.com/lamlv723/data_warehouse_project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lamlv723&repo=azure_data_engineering_project&theme=tokyonight)](https://github.com/lamlv723/azure_data_engineering_project)<br/>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lamlv723&repo=cohort_analysis&theme=aura)](https://github.com/lamlv723/cohort_analysis)<br/>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lamlv723&repo=JavaScript_course_project&theme=merko)](https://github.com/lamlv723/JavaScript_course_project)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lamlv723&repo=html_css_project&theme=dark)](https://github.com/lamlv723/html_css_project)
